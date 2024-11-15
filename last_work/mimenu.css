@@ -1,0 +1,18 @@
+navbar {
+			background: black;
+			width: 1350px;
+			height: 100px;
+			display: inline-block;
+			font-size: 1.8em;
+}
+li:hover {
+	border: 3px gold solid;
+	padding:12px ;
+}
+li{
+	display: inline;
+	margin: 78px;	
+}
+a{
+	text-decoration: none;
+}
